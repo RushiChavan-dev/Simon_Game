@@ -8,3 +8,5 @@ An application is an simple game built with HTMl, JavaScript, JQuery and CSS.
 ## Instruction
 
 Project URL:- https://extraordinary-seahorse-a47368.netlify.app/
+
+Author : Rushi Chavan
